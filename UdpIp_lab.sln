@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpIp_lab", "UdpIp_lab\UdpIp_lab.csproj", "{94C3CCEB-6F3F-49E1-AE26-900564F23CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpIp2_lab", "UdpIp2_lab\UdpIp2_lab.csproj", "{078C2D7B-0902-44D7-B08F-97378E170F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C3CCEB-6F3F-49E1-AE26-900564F23CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C3CCEB-6F3F-49E1-AE26-900564F23CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C3CCEB-6F3F-49E1-AE26-900564F23CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C3CCEB-6F3F-49E1-AE26-900564F23CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078C2D7B-0902-44D7-B08F-97378E170F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078C2D7B-0902-44D7-B08F-97378E170F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078C2D7B-0902-44D7-B08F-97378E170F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078C2D7B-0902-44D7-B08F-97378E170F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

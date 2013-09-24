@@ -1,0 +1,9 @@
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\bin\Debug\UdpIp2_lab.exe.config
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\bin\Debug\UdpIp2_lab.exe
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\bin\Debug\UdpIp2_lab.pdb
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.Ohjelma2.resources
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.Properties.Resources.resources
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.csproj.GenerateResource.Cache
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.exe
+C:\Users\Mika\Desktop\Salaisuuksien kammio\C#Programs\UdpIp_lab\UdpIp2_lab\obj\Debug\UdpIp2_lab.pdb
