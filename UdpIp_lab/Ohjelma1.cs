@@ -19,6 +19,8 @@ namespace UdpIp_lab
             InitializeComponent();
             this.toolStripStatusLabel1.Text = "No image.";
             this.toolStripSplitButton1.Enabled = false;
+            this.printPictureToolStripMenuItem.Enabled = false;
+            this.sendPictureToolStripMenuItem.Enabled = false;
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -49,6 +51,8 @@ namespace UdpIp_lab
                         }
                         this.toolStripStatusLabel1.Text = openFileDialog1.SafeFileName;
                         this.toolStripSplitButton1.Enabled = true;
+                        this.printPictureToolStripMenuItem.Enabled = true;
+                        this.sendPictureToolStripMenuItem.Enabled = true;
                     }
                 }
                 catch (Exception ex)
@@ -75,6 +79,8 @@ namespace UdpIp_lab
             pictureBox1.ImageLocation = null;
             this.toolStripSplitButton1.Enabled = false;
             this.toolStripStatusLabel1.Text = "No image.";
+            this.printPictureToolStripMenuItem.Enabled = false;
+            this.sendPictureToolStripMenuItem.Enabled = false;
         }
     }
 }
